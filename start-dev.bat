@@ -1,4 +1,4 @@
 @echo off
-cd /d "C:\Users\ID501\Videos\trenchesbuddy"
-npm run dev
+echo Starting Trenches Buddy Development Server...
+npx next dev -p 3010
 pause 
